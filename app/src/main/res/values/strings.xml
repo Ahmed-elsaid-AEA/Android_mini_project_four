@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Real Estate</string>
+    <string name="Intro">Find your dream house \n at the best Price</string>
+    <string name="Intro_desc">We\'re here for every homeownerShip</string>
+    <string name="letsStart">let\'s Start</string>
+    <string name="WelcomeBack">Welcome Back</string>
+    <string name="name">Name</string>
+</resources>
